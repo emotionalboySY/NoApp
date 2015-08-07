@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">아이마켓</string>
+    <string name="splash_detail">사업 아이디어를 사고 파세요!</string>
+
+    <string name="drawer_title1"></string>
+    <string name="drawer_title2"></string>
+    <string name="drawer_title3"></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_login">로그인</string>
+</resources>
